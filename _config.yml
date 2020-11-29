@@ -28,7 +28,7 @@ twitter_username: rami_jemli
 github_username:  RamiJ3mli
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
