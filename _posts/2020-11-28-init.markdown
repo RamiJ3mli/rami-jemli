@@ -8,6 +8,6 @@ For someone that discovered the green creature's witchcraft years ago, it's easi
 
 Personally, what i cherish the most about my work as an Android software creator is the ever-changing APIs and tools that Google and the community throw our way. There is always more to learn. There is always a better way to do things, and i find it delightful. 
 
-The android community was crucial for my growth as a software creator. As an enthusiast, it’s about time I start doing my part and share back.
+The android community was crucial for my growth as a software creator. As an enthusiast, i think it’s about time i start doing my part and share back.
 
 So, welcome to my blog! I will be writing a lot of technical stuff about android, and hopefully, the green creature’s witchcraft catches on with you. Enjoy!
