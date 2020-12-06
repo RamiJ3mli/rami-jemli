@@ -4,8 +4,10 @@ title:  "Init."
 date:   2020-11-28 12:08:35 +0100
 categories: Init
 ---
-For someone that discovered the green creature's witchcraft years ago, it's easier to notice the gargantuan leap in the android developer experience. It's a huge improvement. Today, It's a much faster and easier process for a fresh android developer to reach a profession-ready level than it was years ago. We have kotlin as a modern programming language, a great amount of game-changing open source libraries and tools, and there is a cornucopia of android-focused educational content out there. The latter comes in every form. Articles, videos, events, workshops, Q&A platforms, AMAs, etc. Most of which are created by outstanding talents and content creators whom we can easily call masters of their craft. There is no better time to be an android developer.
+For someone that discovered the green creature's witchcraft years ago, it's easier to notice the gargantuan leap forward in the Android developer experience. It's a huge shift. Today, it's a much faster and easier process for a fresh Android developer to reach a profession-ready level than it was years ago. We have kotlin as a modern programming language, a great amount of game-changing open source projects, libraries and tools, and there is a cornucopia of android-focused educational content out there. The latter comes in every form. Articles, videos, events, workshops, Q&A platforms, AMAs, etc. Most of which are created by outstanding talents and content creators whom we can easily call masters of their craft. There is no better time to be an android developer.
 
-Personally, the android community was crucial for my growth as a software creator, and it's about time I start doing my part and share back.
+Personally, what i cherish the most about my work as an Android software creator is the ever-changing APIs and tools that Google and the community throw our way. There is always more to learn. There is always a better way to do things, and i find it delightful. 
 
-So, welcome to my blog! I will be writing a lot of technical stuff about android, and hopefully, the green creature's witchcraft catches on with you. Enjoy! 
+The android community was crucial for my growth as a software creator. As an enthusiast, it’s about time I start doing my part and share back.
+
+So, welcome to my blog! I will be writing a lot of technical stuff about android, and hopefully, the green creature’s witchcraft catches on with you. Enjoy!
