@@ -22,7 +22,7 @@ title: Rami Jemli's
 email: me@ramijemli.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my world. This is where i write about Android stuff. Enjoy!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ramijemli.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Field managed by the theme
